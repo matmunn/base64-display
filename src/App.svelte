@@ -5,8 +5,8 @@
 <div>
   <textarea
     bind:value={data}
-    cols={80}
-    rows={8}
+    cols="80"
+    rows="8"
   />
   <br />
   {#if data}
